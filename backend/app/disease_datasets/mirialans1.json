@@ -1,0 +1,40 @@
+{
+  "disease": {
+    "name": "Mirialan Neural Degeneration Syndrome",
+    "description": "Mirialan Neural Degeneration Syndrome is a rare neurological disorder specific to individuals of the Mirialan species, characterized by progressive degeneration of the nervous system."
+  },
+  "symptoms": [
+    "Tremors",
+    "Muscle Weakness",
+    "Loss of Coordination",
+    "Numbness or Tingling Sensations",
+    "Difficulty Speaking or Swallowing",
+    "Cognitive Impairment",
+    "Vision Changes",
+    "Mood Swings",
+    "Depression",
+    "Fatigue"
+  ],
+  "treatment_plans": [
+    {
+      "name": "Medication Management",
+      "description": "Prescribe medications to manage symptoms such as tremors, muscle weakness, and mood swings. This may include muscle relaxants, antidepressants, and medications to alleviate neuropathic pain."
+    },
+    {
+      "name": "Physical Therapy",
+      "description": "Initiate a physical therapy program to help maintain muscle strength, improve coordination, and prevent contractures. Physical therapists can also teach adaptive techniques to manage mobility challenges."
+    },
+    {
+      "name": "Speech Therapy",
+      "description": "Refer the individual to speech therapy sessions to address difficulties with speech and swallowing. Speech therapists can provide exercises and techniques to improve communication and swallowing function."
+    },
+    {
+      "name": "Cognitive Rehabilitation",
+      "description": "Provide cognitive rehabilitation interventions to address cognitive impairment and memory problems. This may include cognitive exercises, memory aids, and strategies to improve attention and executive function."
+    },
+    {
+      "name": "Psychological Support",
+      "description": "Offer psychological support and counseling to help individuals cope with emotional challenges such as depression, anxiety, and mood swings. Therapists can provide coping strategies and support networks to improve quality of life."
+    }
+  ]
+}

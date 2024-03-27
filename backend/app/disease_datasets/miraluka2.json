@@ -1,0 +1,41 @@
+{
+    "disease": {
+      "name": "Miraluka Neural Disconnection Syndrome",
+      "description": "Miraluka Neural Disconnection Syndrome is a neurological disorder specific to Miralukas, characterized by disruptions in neural connectivity leading to cognitive and sensory impairments."
+    },
+    "symptoms": [
+      "Memory Loss",
+      "Difficulty Processing Information",
+      "Impaired Problem-Solving Skills",
+      "Language and Speech Difficulties",
+      "Sensory Processing Issues",
+      "Difficulty Recognizing Familiar Faces",
+      "Spatial Disorientation",
+      "Motor Coordination Problems",
+      "Emotional Instability",
+      "Fatigue"
+    ],
+    "treatment_plans": [
+      {
+        "name": "Neurological Evaluation",
+        "description": "Conduct a comprehensive neurological evaluation to assess cognitive function, sensory processing, and motor coordination. Neurologists may perform brain imaging scans and specialized tests to diagnose the extent of neural disconnection."
+      },
+      {
+        "name": "Speech and Language Therapy",
+        "description": "Refer individuals to speech and language therapy sessions to address language difficulties and improve communication skills. Therapists can provide exercises and techniques to enhance speech clarity and comprehension."
+      },
+      {
+        "name": "Cognitive Rehabilitation",
+        "description": "Implement cognitive rehabilitation interventions to improve memory, attention, problem-solving, and executive function. Cognitive therapists can provide tailored exercises and strategies to address specific cognitive impairments."
+      },
+      {
+        "name": "Occupational Therapy",
+        "description": "Engage individuals in occupational therapy sessions to address motor coordination problems and sensory processing issues. Occupational therapists can provide adaptive techniques and equipment to enhance independence in daily activities."
+      },
+      {
+        "name": "Medication Management",
+        "description": "Prescribe medications to manage symptoms such as emotional instability, fatigue, and cognitive impairments. This may include antidepressants, stimulants, or cognitive enhancers to improve mood and cognitive function."
+      }
+    ]
+  }
+  

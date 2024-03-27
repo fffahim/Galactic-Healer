@@ -1,0 +1,40 @@
+{
+  "disease": {
+    "name": "Mirialan Skin Hypersensitivity Syndrome",
+    "description": "Mirialan Skin Hypersensitivity Syndrome is a condition unique to Mirialans, characterized by extreme sensitivity of the skin to various stimuli."
+  },
+  "symptoms": [
+    "Severe Itching",
+    "Redness or Rash",
+    "Skin Irritation or Burning Sensation",
+    "Hives or Welts",
+    "Swelling",
+    "Dry, Flaky Skin",
+    "Pain or Discomfort Upon Touch",
+    "Skin Sensitivity to Light",
+    "Difficulty Regulating Body Temperature",
+    "Sleep Disturbances"
+  ],
+  "treatment_plans": [
+    {
+      "name": "Topical Treatments",
+      "description": "Prescribe topical creams or ointments containing anti-inflammatory or soothing ingredients to relieve itching, redness, and irritation of the skin."
+    },
+    {
+      "name": "Antihistamines",
+      "description": "Administer oral antihistamine medications to reduce allergic reactions and alleviate symptoms such as itching, swelling, and hives."
+    },
+    {
+      "name": "Avoidance of Triggers",
+      "description": "Educate the individual on identifying and avoiding triggers that exacerbate skin sensitivity, such as harsh chemicals, certain fabrics, or exposure to sunlight."
+    },
+    {
+      "name": "Moisturizing Regimen",
+      "description": "Recommend a moisturizing regimen using gentle, hypoallergenic skincare products to hydrate the skin and prevent dryness and flakiness."
+    },
+    {
+      "name": "Phototherapy",
+      "description": "Consider phototherapy treatments using UVB light to help reduce skin inflammation and improve symptoms. Phototherapy sessions are carefully monitored to minimize the risk of sunburn and skin damage."
+    }
+  ]
+}

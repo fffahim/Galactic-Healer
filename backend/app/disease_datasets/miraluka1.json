@@ -1,0 +1,39 @@
+{
+  "disease": {
+    "name": "Miraluka Melancholia",
+    "description": "Miraluka Melancholia is a psychological disorder that primarily affects individuals of the Miraluka species, characterized by persistent feelings of sadness, hopelessness, and loss of interest or pleasure in activities."
+  },
+  "symptoms": [
+    "Persistent Sadness",
+    "Feelings of Hopelessness",
+    "Loss of Interest or Pleasure in Activities Once Enjoyed",
+    "Fatigue or Loss of Energy",
+    "Changes in Appetite or Weight",
+    "Sleep Disturbances (Insomnia or Hypersomnia)",
+    "Difficulty Concentrating or Making Decisions",
+    "Feelings of Worthlessness or Excessive Guilt",
+    "Thoughts of Death or Suicide"
+  ],
+  "treatment_plans": [
+    {
+      "name": "Psychotherapy",
+      "description": "Provide individual or group psychotherapy sessions, such as cognitive-behavioral therapy (CBT) or interpersonal therapy (IPT), to help individuals explore and address underlying emotional issues, develop coping strategies, and improve mood regulation."
+    },
+    {
+      "name": "Medication Management",
+      "description": "Prescribe antidepressant medications, such as selective serotonin reuptake inhibitors (SSRIs) or serotonin-norepinephrine reuptake inhibitors (SNRIs), to help alleviate symptoms of depression and stabilize mood."
+    },
+    {
+      "name": "Lifestyle Modifications",
+      "description": "Encourage individuals to engage in self-care activities, maintain a healthy lifestyle, and establish a routine to promote physical and emotional well-being. This may include regular exercise, proper nutrition, adequate sleep, and stress management techniques."
+    },
+    {
+      "name": "Social Support",
+      "description": "Foster social support networks and encourage individuals to connect with friends, family members, or support groups. Social support can provide emotional validation, practical assistance, and a sense of belonging, which can help alleviate feelings of isolation and improve mood."
+    },
+    {
+      "name": "Crisis Intervention",
+      "description": "Provide crisis intervention services and emergency support for individuals experiencing severe symptoms or thoughts of self-harm or suicide. This may involve immediate psychiatric evaluation, safety planning, and coordination with mental health professionals."
+    }
+  ]
+}
